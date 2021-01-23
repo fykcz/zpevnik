@@ -1,4 +1,7 @@
 # Změny
+## 2021-01-23
+- 104 - 106 - přidány nové skladby
+
 ## 2021-01-16
 - 102 - posunutý akordy
 - 91  - drobná úprava textu
@@ -6,6 +9,7 @@
 - 15  - odstraněna sloka, kterou stejně nikdo nezná
 - 53  - oprava akordu
 - 103 - novej song
+
 ## 2020-05-07
 - 53  - oprava akordu
 - 72  - doplněn obrázek akordu C2
