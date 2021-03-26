@@ -1,6 +1,16 @@
 # Změny
+## 2021-03-26
+- 107 - 111 - přidány nové skladby:
+  - Carpe Diem
+  - Love Is All Around
+  - San Francisco
+  - Plechový Ježíš
+  - Nejlíp jim bylo
 ## 2021-01-23
-- 104 - 106 - přidány nové skladby
+- 104 - 106 - přidány nové skladby:
+  - Zahrada ticha
+  - Rovnou
+  - Růže z papíru
 
 ## 2021-01-16
 - 102 - posunutý akordy
@@ -8,7 +18,7 @@
 - 85  - jinej refrén na konci
 - 15  - odstraněna sloka, kterou stejně nikdo nezná
 - 53  - oprava akordu
-- 103 - novej song
+- 103 - novej song "Máme tu problém"
 
 ## 2020-05-07
 - 53  - oprava akordu
