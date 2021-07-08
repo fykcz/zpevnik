@@ -29,3 +29,7 @@
 - 73  - Převedeno do Cdur
 - 74  - Přidána poznámka KAPO 2
 - 96  - Doplněný akordy pro jinou tóninu
+
+## 2021-07-08
+- 113  - Přidána nová skladba Cestou do Jenkovic
+- 72  - doplněn obrázek akordu C2
