@@ -1,6 +1,13 @@
 # Změny
+## 2022-03-09
+- 114 - 116 - Přidány nové skladby
+ - Nagasaki Hirošima
+ - Dokud se zpívá
+ - Sluneční hrob
+- nový styl pro tabulatury
+
 ## 2021-07-08
-- 113  - Přidána nová skladba Cestou do Jenkovic
+- 113 - Přidána nová skladba Cestou do Jenkovic
 - 72  - doplněn obrázek akordu C2
 
 ## 2021-03-26
