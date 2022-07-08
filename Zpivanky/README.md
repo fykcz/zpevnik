@@ -1,5 +1,8 @@
 # Změny
 
+## 2022-07-08
+- 121 - Všech vandráků můza
+
 ## 2022-05-16
 - 122 - Přidána skladba Anička Malinová, 121 je zatím prázdná
 
