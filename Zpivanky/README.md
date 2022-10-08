@@ -1,5 +1,11 @@
 # Změny
 
+## 2022-10-08
+- Přidány nové sklady:
+ - 124 - I'm Free
+ - 125 - Such A Nice Day
+ - 126 - Part Of Me
+
 ## 2022-07-08
 - 121 - Všech vandráků můza
 
