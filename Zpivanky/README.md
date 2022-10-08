@@ -5,6 +5,7 @@
  - 124 - I'm Free
  - 125 - Such A Nice Day
  - 126 - Part Of Me
+- Oprava skladby 121 Všech vandráků můza a oprava akordů u 122 Anička Malinová
 
 ## 2022-07-08
 - 121 - Všech vandráků můza
