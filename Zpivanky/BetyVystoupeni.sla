@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="10" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="15" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="1" DPSo="0" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="cs" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="120000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#ffdcff" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="#800000" SPACE="RGB" R="150" G="100" B="50"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Source Code Pro Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="cs"/>
+        <CHARSTYLE CNAME="Číslo stránky" CPARENT="Default Character Style" FONT="Courier New Regular" FONTSIZE="20" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="Akordy" CPARENT="Default Character Style" FONT="Source Code Pro Black" SCALEV="130" BASEO="-10"/>
+        <CHARSTYLE CNAME="Footnote" CPARENT="Default Character Style" FONTSIZE="8"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" BCOLOR="None" BSHADE="100" CPARENT="Default Character Style"/>
+        <STYLE NAME="Název songu" PARENT="Default Paragraph Style" FONT="Source Code Pro Bold" FONTSIZE="20"/>
+        <STYLE NAME="Text" PARENT="Default Paragraph Style" LINESPMode="2" LINESP="15" FONT="Source Code Pro Regular"/>
+        <STYLE NAME="Akordy" PARENT="Text" LINESP="16" CPARENT="Akordy"/>
+        <STYLE NAME="Refrén" PARENT="Default Paragraph Style" LINESPMode="2" INDENT="28.3464566929134" FIRST="0" FONT="Source Code Pro Regular"/>
+        <STYLE NAME="Akordy refrénu" PARENT="Refrén" LINESP="16" CPARENT="Akordy"/>
+        <STYLE NAME="None" LINESPMode="0" LINESP="15" KERN="0"/>
+        <STYLE NAME="Obsah" PARENT="Default Paragraph Style" LINESPMode="2" FIRST="0" FONT="Courier New Regular">
+            <Tabs Type="1" Pos="507.40157480315" Fill="."/>
+        </STYLE>
+        <STYLE NAME="Autor" PARENT="Default Paragraph Style" LINESPMode="2" FONT="Source Code Pro Bold" FONTSIZE="12"/>
+        <STYLE NAME="Číslování stránek" PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Číslo stránky"/>
+        <STYLE NAME="Číslo stránky - vlevo" PARENT="Číslování stránek"/>
+        <STYLE NAME="Číslo stránky - vpravo" PARENT="Číslování stránek" ALIGN="2"/>
+        <STYLE NAME="Footnote" PARENT="Default Paragraph Style" LINESP="14" VOR="15" CPARENT="Footnote"/>
+        <STYLE NAME="Footnote - vlevo" PARENT="Footnote" ALIGN="0"/>
+        <STYLE NAME="Footnote - vpravo" PARENT="Footnote" ALIGN="2"/>
+        <STYLE NAME="Tabulatura" PARENT="Text" LINESPMode="0" LINESP="8" FONTSIZE="8"/>
+        <STYLE NAME="Nástroj" PARENT="Název songu" ALIGN="1" FONTSIZE="70" FEATURES="shadowed" SCOLOR="Black" SSHADE="40" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Pozadí" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0012598425197" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Canon MF4100 Series UFRII LT" filename="" separationName="Všechny" printerCommand="">
+            <Separation Name="Tyrkysová"/>
+            <Separation Name="Purpurová"/>
+            <Separation Name="Žlutá"/>
+            <Separation Name="Černá"/>
+        </Printer>
+        <PDF firstUse="0" Thumbnails="1" Articles="1" Bookmarks="0" Compress="1" CMethod="2" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="1" PageLayout="3" openAction="">
+            <Subset Name="Courier New Regular"/>
+            <Subset Name="Source Code Pro Black"/>
+            <Subset Name="Source Code Pro Bold"/>
+            <Subset Name="Source Code Pro Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes>
+            <ItemAttribute Name="TOC" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            <ItemAttribute Name="Index" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            <ItemAttribute Name="Autor" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+        </DocItemAttributes>
+        <TablesOfContents>
+            <TableOfContents Name="Obsah" ItemAttributeName="TOC" FrameName="TableOfContent" ListNonPrinting="0" Style="Obsah" NumberPlacement="End"/>
+            <TableOfContents Name="Umelci" ItemAttributeName="Autor" FrameName="Umelci" ListNonPrinting="0" Style="Obsah" NumberPlacement="End"/>
+        </TablesOfContents>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Texty" From="0" To="9" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="0" NAM="Normální vlevo" MNAM="" Size="A4" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="1" NAM="Normální vpravo" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="2" NAM="Úvodní vpravo" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="3" NAM="Prázdná vlevo" MNAM="" Size="A4" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276220472441" PAGEYPOS="20.0012598425197" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="0" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="901.890708661418" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="1" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276220472441" PAGEYPOS="901.890708661418" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="2" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1783.78015748032" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="3" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276220472441" PAGEYPOS="1783.78015748032" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="4" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2665.66960629921" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="5" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276220472441" PAGEYPOS="2665.66960629921" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="6" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="7" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="695.276220472441" PAGEYPOS="3547.55905511811" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="8" NAM="" MNAM="Normální vpravo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4429.44850393701" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="45.3543307086614" NUM="9" NAM="" MNAM="Normální vlevo" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="142.52031496063" YPOS="819.371338582678" OwnPage="0" ItemID="175939600" PTYPE="4" WIDTH="56.6929133858268" HEIGHT="28.3464566929134" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L56.6929 0 L56.6929 28.3465 L0 28.3465 L0 0 Z" copath="M0 0 L56.6929 0 L56.6929 28.3465 L0 28.3465 L0 0 Z" OnMasterPage="Normální vlevo" gXpos="13565877.9533919" gYpos="71891467301.8892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="Black"/>
+                <var name="pgno"/>
+                <trail PARENT="Číslo stránky - vlevo"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="596.063622047245" YPOS="819.371338582678" OwnPage="1" ItemID="175949264" PTYPE="4" WIDTH="56.6929133858268" HEIGHT="28.3464566929134" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L56.6929 0 L56.6929 28.3465 L0 28.3465 L0 0 Z" copath="M0 0 L56.6929 0 L56.6929 28.3465 L0 28.3465 L0 0 Z" OnMasterPage="Normální vpravo" gXpos="1985623881.24807" gYpos="70952344109.4195" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno"/>
+                <trail PARENT="Číslo stránky - vpravo"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="511.024251968504" YPOS="821.525669291339" OwnPage="0" ItemID="175954640" PTYPE="4" WIDTH="141.732283464567" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L141.732 0 L141.732 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L141.732 0 L141.732 19.8425 L0 19.8425 L0 0 Z" OnMasterPage="Normální vlevo" gXpos="10620822.8352776" gYpos="65390127137.2302" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Bety vystoupení"/>
+                <trail PARENT="Footnote - vpravo"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="142.52031496063" YPOS="821.525669291339" OwnPage="1" ItemID="175960016" PTYPE="4" WIDTH="141.732283464567" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L141.732 0 L141.732 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L141.732 0 L141.732 19.8425 L0 19.8425 L0 0 Z" OnMasterPage="Normální vpravo" gXpos="1616501963.07147" gYpos="64577398986.5624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Bety vystoupení"/>
+                <trail PARENT="Footnote - vlevo"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="482.677795275591" YPOS="821.405153901217" OwnPage="0" ItemID="176106800" PTYPE="5" WIDTH="170.07874015748" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="" OnMasterPage="Normální vlevo" gXpos="10620794.4888209" gYpos="60078676309.6425" gWidth="0" gHeight="0" LAYER="0"/>
+        <MASTEROBJECT XPOS="142.52031496063" YPOS="821.405153901217" OwnPage="1" ItemID="176112064" PTYPE="5" WIDTH="170.07874015748" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="" OnMasterPage="Normální vpravo" gXpos="1422925484.29652" gYpos="59265948158.9692" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="944.410393700797" OwnPage="1" ItemID="176055120" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031487" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="944.410393700797" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Cizí pohled"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Tichá dohoda"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D    G             D       G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Cizí pohled v davu za mnou"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D    G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="lidi před ním uhýbaj"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D    G             D    G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="snad se jejich oči bojí"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D       G             D     G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="snad se stydí za svou tvář"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D       G             D"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="snad se stydí za svou tvář"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D       G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Ajaja - ó"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Ajaja - ó"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="D         A      G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="já nechci stejná být"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="tak lidé kolem kráčí"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="někteří nesou svůj kříž"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="tak lidé kolem šlapou na můj stín"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="nikdo se mi neomluví"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ajaja - ó"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="já nechci stejná být ..."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Cizí pohled v davu mizí"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="přichází studená tvář"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="jak tu ještě dlouho"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="dlouho budu stát"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="a co mě ještě čeká ?"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ajaja - ó"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Já nechci stejná být !!!"/>
+                <trail PARENT="Text"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Cizí pohled" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="Index" Type="none" Value="Cizí pohled" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="Autor" Type="none" Value="Tichá dohoda" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.795905511811" YPOS="944.4103937008" OwnPage="2" ItemID="176060496" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031485" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="737.795905511811" gYpos="944.4103937008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Vzpomínka"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Aneta Langerová"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Hmi, D, A"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="         Hmi         D          A"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Znám pár míst z nich tají se mi dech"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="a buď si jist, že pro ně místo v srdci nenajdeš."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="                                "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Člověk na čas ztratí i to poslední co má"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="a k modlitbám se vrátí až mu bude zpívat tma."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="             G                  Hmi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="No tak hudbo hraj, ať tu nejsem sama,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="         D                     E"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="jen já a tma, jen já a tma bolavá."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Hmi    A    D               C#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Plamen zhasíná v nás dál už není,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Hmi     A     D            C#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="nezbyla nám síla, jsme poražení"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Hmi          A          D             C#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="do prázdných láhví od vína dám krátké psaní"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Hmi        A             D            C#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="jak příběh končí jak začínal už nikdo neví"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Hmi       A             G                      Hmi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Na okenní rám smutek uléhá, jak dlouho chce tu spát?"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="          A             G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Na okenní rám smutek uléhá."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Vytržený list z paměti, nikdy nečíst zpátky nelepit."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Nebylo by tání bez zimy a v modlitbách mých přání"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="spatřit oči máminy."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="No tak hudbo hraj, jak hrávala mi ona,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="než nastala tma nastala tma bolavá."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Vzpomínkou ožíváš, už nic nezměním"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="v šedé síni zpěv doznívá nikdo tu není"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="jen v prázdné láhvi od vína dál skryté je psaní"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="jak příběh končí jak začínal už nikdo neví."/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Na okenní rám smutek uléhá, jak dlouho chce tu spát?"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Na okenní rám smutek uléhá a já ho kolíbám."/>
+                <para PARENT="Text"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Tichá domácnost" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="textframes"/>
+                <ItemAttribute Name="Index" Type="none" Value="Tichá domácnost" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="textframes"/>
+                <ItemAttribute Name="Autor" Type="none" Value="Bratři Ebenové" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.795905511811" YPOS="62.5209448819369" OwnPage="0" ItemID="176065872" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031448" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="737.795905511811" gYpos="62.5209448819369" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Už to nenapravím"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Jaroslav Samsong Lenk"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ami D F E Ami E"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Vap tap tap ... "/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="  Ami                    D"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="V devět hodin dvacet pět mě opustilo štěstí,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="    F                                    E     E7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="ten vlak, co jsem jím měl jet, na koleji dávno nestál,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="  Ami                    D"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="v devět hodin dvacet pět jako bych dostal pěstí,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="   F                             E"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="já za hodinu na náměstí měl jsem stát, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="      E7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="ale v jiným městě."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="    A                     A7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Tvá zpráva zněla prostě a byla tak krátká,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="   Dmi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="že stavíš se jen na skok, že nechalas' mi vrátka"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G               E"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="zadní otevřená, zadní otevřená,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="   A                  A7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="já naposled tě viděl, když ti bylo dvacet,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Dmi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="to jsi tenkrát řekla, že se nechceš vracet,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G               E             E7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="že jsi unavená, ze mě unavená."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ref"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Já čekala jsem, hlavu jako střep, a zdálo se, že dlouho,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="může za to vinný sklep, že člověk často sleví,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="já čekala jsem, hlavu jako střep, s podvědomou touhou,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="já čekala jsem dobu dlouhou, víc než dost, kolik přesně, nevím."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Pak jedenáctá byla a už to bylo passé,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="já měla vědět dřív, že vidět chci tě zase,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="láska nerezaví, láska nerezaví,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="ten list, co jsem ti psala, byl dozajista hloupý,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="byl odměřený moc, na vlídný slovo skoupý,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="už to nenapravím, už to nenapravím."/>
+                <para PARENT="Text"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Už to nenapravím" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="Index" Type="none" Value="Už to nenapravím" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+                <ItemAttribute Name="Autor" Type="none" Value="Jaroslav Samson Lenk" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-452.755275590551" YPOS="112062.838110236" OwnPage="-1" ItemID="177745968" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="-452.755275590551" gYpos="112062.838110236" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="176031648" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Part Of Me"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Circus Ponorka"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Part of me"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="                      C"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Can’t look you in the eye"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="       G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="‘cause part of me"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="            G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Remembers a time"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Emi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="It used to be"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="          H7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="You never doubted me"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Always so care-free"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Part of me"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Keeps on living a lie"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="‘cause part of me"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Just wants to survive"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="No i don’t agree"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="With all i used to be"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="But don’t you see"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="It’s part of me"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="   G           F           C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="As sunshine is part of the day"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="        G          F           C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="And our trials are part of the way"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="       G         F      C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Please listen to what i say"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="          G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="|: All of me"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="                        C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="   Knows you’re part of me :| 4x"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="             G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="|: Don’t you see"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="                  C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="   You’re part of me :| 3x"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="          G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Don’t you see"/>
+                <para PARENT="Refrén"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="112062.840944882" OwnPage="-1" ItemID="176031648" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="112062.840944882" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="177752368" BACKITEM="177745968"/>
+        <PAGEOBJECT XPOS="-452.755275590551" YPOS="112944.733228347" OwnPage="-1" ItemID="177752368" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="-452.755275590551" gYpos="112944.733228347" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="177757744" BACKITEM="176031648"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="112944.736062992" OwnPage="-1" ItemID="177757744" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="112944.736062992" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="178899488" BACKITEM="177752368"/>
+        <PAGEOBJECT XPOS="-452.755275590551" YPOS="113826.628346457" OwnPage="-1" ItemID="178899488" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="-452.755275590551" gYpos="113826.628346457" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="178904864" BACKITEM="177757744"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="113826.631181102" OwnPage="-1" ItemID="178904864" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="113826.631181102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="176201840" BACKITEM="178899488"/>
+        <PAGEOBJECT XPOS="-452.755275590551" YPOS="114708.523464567" OwnPage="-1" ItemID="176201840" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="-452.755275590551" gYpos="114708.523464567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="176207216" BACKITEM="178904864"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="114708.526299213" OwnPage="-1" ItemID="176207216" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="114708.526299213" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="178910608" BACKITEM="176201840"/>
+        <PAGEOBJECT XPOS="-452.755275590551" YPOS="115590.418582677" OwnPage="-1" ItemID="178910608" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="-452.755275590551" gYpos="115590.418582677" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="178916272" BACKITEM="176207216"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="115590.421417323" OwnPage="-1" ItemID="178916272" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="115590.421417323" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="178910608"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="1826.29984251969" OwnPage="3" ItemID="178913440" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="1826.29984251969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Lásko má já stůňu"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Helena Vondráčková"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Kapo 3"/>
+                <para PARENT="Akordy"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ami|C             Emi|G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Já, ač spánek mám bezesný,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="    D|F   E7|G   Ami|C"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="mně včera sen se zdál."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ami|C        Emi|G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="I když dávno nejsem s ním,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="    D|F   E|G     F|G#"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="mně navštívil sám král."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="      C|D#         G|Bb"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Řekl: lásko má, já stůňu,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="      Dmi|F         Ami|C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="svojí pýchu, já jen hrál."/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="      C7|D#          F|G#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Kvůli vám se vzdávám trůnu,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="     C|D# G|Bb E|G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="klenotů i kate—drál."/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ač den mám jindy poklidný,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="dnes nevím, kudy kam."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Trápí mě sen ošidný"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="a trápí mě král sám."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Řekl: lásko má, já stůňu,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="svojí pýchu, já jen hrál."/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Kvůli vám se vzdávám trůnu,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="     C|D# G|Bb  C|D# G|Bb"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="klenotů i kate—drál."/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Řekl: lásko má, já stůňu,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="svojí pýchu, já jen hrál."/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Kvůli vám se vzdávám trůnu,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="     C|D# G|Bb E|G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="klenotů i kate—drál."/>
+                <para PARENT="Refrén"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.795905511811" YPOS="1826.29984251969" OwnPage="4" ItemID="178924768" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="737.795905511811" gYpos="1826.29984251969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Nevinná"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="David Kraus"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="    D  G         D  G     D  G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Nevinná, jsi nevinná, nevinná"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="           D             F#mi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Sám v sobě sedím, vagóny počítám"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G                      Emi7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="můj vlak chce bejt zas se mnou sám"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="  Gmaj7     F#         G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="v náručí mě svírá, odmykám."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="             D            F#mi"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Na dně tvých očí, poklady pirátů"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G               Emi7"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="mý paže z větví akátů"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G              Emi7       A"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="prorůstaj tvým tělem, nevinná."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D                     A"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Jsi sama tak co proti lásce zmůžeš"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Hmi                   G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="připadá ti snad láska zvrácená"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="D            A           G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="léčíš stínem úžeh, ztracená."/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="D                    A"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Neříkej, že ti láska dává málo"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Hmi             G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="vítr ten mystik všechno ví"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="D          A            G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="loví tvoje vlásky ve křoví"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Nevinná, jsi nevinná, nevinná, květina"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Sám v sobě sedím, ..."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="tvůj vlak chce bejt ..."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="..."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="prorůstaj tvým tělem, nevinná"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ref"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="V nás padaj hvězdy dolů,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="ale andělé nas zvou nahoru"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="hvězdám není dáno zahynout"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="Neříkej, že nám láska dává málo"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="vítr ten mystik všechno ví"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="loví naše vlásky ve křoví"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Nevinná, jsi nevinná, nevinná, květina"/>
+                <para PARENT="Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1177.16598425197" YPOS="62.5209448818898" OwnPage="0" ItemID="178927600" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="B"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="581.890393700787" YPOS="944.410393700788" OwnPage="1" ItemID="178930432" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="K"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1177.16598425197" YPOS="944.410393700788" OwnPage="2" ItemID="178933264" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="B"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="581.890393700787" YPOS="1826.29984251969" OwnPage="3" ItemID="178907776" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="B"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1177.16598425197" YPOS="1826.29984251969" OwnPage="4" ItemID="178936096" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="K"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="2708.18929133858" OwnPage="5" ItemID="178919104" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="2708.18929133858" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Zatancuj si so mnou"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Adam Ďurica"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C                               D#"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Zatancuj si so mnou dievča modrooké"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="            Bb       G              C"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Zatancuj si so mnou áa, v tej tráve vysokej"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="                               D#"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Zahrajú nám svrčky, zaspievajú vtáci"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="            Bb       G             C"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Zatancuj si so mnou áa, dievča poležiačky"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="          G#         Bb              C    D#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="My budeme tancovať óoou až do samého rána"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="             G#          Bb            C    G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Kým nám hudba bude hrať, ty budeš moja dáma"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="          G#         Bb              C    D#"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="My budeme tancovať óoou až do samého rána"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="              G#         Bb              C"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Kým nám hudba bude hrať, veď noc je ešte mladá"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C D# Bb G C"/>
+                <para PARENT="Akordy"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Zatancuj si so mnou dievča plavovlasé"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Jedna pieseň skončí áa, druhá začne zase"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="A keď hudba stíchne ty budeš mojou ženou"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Tancuj blízko pri mne áa, dušou, celým telom"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ref"/>
+                <trail PARENT="Refrén"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.795905511811" YPOS="2708.18929133858" OwnPage="6" ItemID="178921936" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="737.795905511811" gYpos="2708.18929133858" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Husličky"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Vlasta Redl"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C                    F C  Dmi        Ami   G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Čí že ste, husličky, čie, kdo vás tu zanechal"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C                    F C  Dmi        Ami   G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Čí že ste, husličky, čie, kdo vás tu zanechal"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Dmi      G   C    F Dmi      G   C   F"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="na trávě poválané,  na trávě poválané "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Dmi    Ami   G    Dmi Ami G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="u paty oře — cha?"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="A kdože tu trávu tak zválal, aj modré fialy, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="A kdože tu trávu tak zválal, aj modré fialy, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="že ste, husličky, samé, že ste, husličky, samé,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="na světě zostaly? "/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="A který tu muzikant usnul a co sa mu přišlo zdát, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="A který tu muzikant usnul a co sa mu přišlo zdát, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="co sa mu enem zdálo, bože(-), co sa mu enem zdálo, bože(-),"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="že už vjac nechtěl hrát? "/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Zahrajte, husličky, samy, zahrajte zvesela, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Zahrajte, husličky, samy, zahrajte zvesela, "/>
+                <para PARENT="Text"/>
+                <ITEXT CH="až sa tá bude trápit, až sa tá bude trápit,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="která ho nechtěla."/>
+                <para PARENT="Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="3590.07874015748" OwnPage="7" ItemID="252816544" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="3590.07874015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Čerešně"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Hana Hegerová"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Kapo 1"/>
+                <para PARENT="Akordy"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ami       Dmi    F        E    Ami"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Ako mladé dievča už je to za nami"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="                Dmi    F        E      Ami"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Po stromoch som liezla s našimi chlapcami."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C                    G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="A vždy keď na strome zlomili halúzku,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="E                  F       G      Ami"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="hádzali mi chlapci čerešne za blúzku"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="C                 G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="keď boli zvedaví, čo to mám pod blúzkou"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="E                F       G    Ami    E"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="odháňala som ich zelenou halúzkou."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ubránila som sa viac menej úspešne,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="nikto nesmel siahnuť na moje čerešne."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Neverte mládencom, keď sa Vám zapáčia"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="vyjedia vám všetky čerešne z koláča."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Chlapci neublížia kým hľadia zo stromu"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="keď zoskočia dolu, čakajte pohromu."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Keď sa na vás chlapec zadíva uprene,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="ako tie čerešne budete červené."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Keď sa na vás šuhaj usmeje pod fúzky"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="rýchlo vyberajte čerešne zpod blúzky."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Čerešne sú zrelé a blúzka priúzka"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="nič vám nepomôže zelená halúzka."/>
+                <para PARENT="Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="737.795905511811" YPOS="3590.07874015748" OwnPage="8" ItemID="252805216" PTYPE="4" WIDTH="510.236220472441" HEIGHT="757.495727927624" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 757.496 L0 757.496 L0 0 Z" copath="M0 0 L510.236 0 L510.236 757.496 L0 757.496 L0 0 Z" gXpos="737.795905511811" gYpos="3590.07874015748" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Voda živá"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Aneta Langerová"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G, D"/>
+                <para PARENT="Akordy"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="     G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Když končí se den a usne má zem"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="    D"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Pak na malou chvíli"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Vrací se zpět můj niterný svět"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="   D"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Co osud tvůj sdílí"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="         Ami"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Do všech světových stran"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="                  H    C D"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Do všech koutů co znám"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="  G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Volám …"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Když přichází noc tak cítím jak moc"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Tvé světlo mi schází"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Promítne krátce svůj stín někde v dálce"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Tvá duše se ztrácí"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Zdá se nezbylo nic"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Jenže čím dál tím víc"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="                   G               D"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Ve mně navždy zůstává tvoje voda živá"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="             Emi              C  D"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Uvnitř odpočívá čistá a důvěřivá"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="                   G               D"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Ve mně navždy zůstává tvoje voda živá"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="           Emi              C  D"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Tiše odplouvá čistá a důvěřivá"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Když končí se den a usne má zem"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Nevnímám čas"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Vrací se zpět můj niterný svět"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Snad probudí nás"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Zdá se nezbylo nic"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Jenže čím dál tím víc"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ref"/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Když končí se den a usne má zem"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Pak na malou chvíli ... Volám"/>
+                <para PARENT="Text"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="      G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Ref"/>
+                <para PARENT="Refrén"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="4471.96818897638" OwnPage="9" ItemID="252827872" PTYPE="4" WIDTH="510.236220472441" HEIGHT="754.015748031497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" copath="M0 0 L510.236 0 L510.236 754.016 L0 754.016 L0 0 Z" gXpos="142.52031496063" gYpos="4471.96818897638" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Alžběta"/>
+                <para PARENT="Název songu"/>
+                <ITEXT CH="Jan Voráček"/>
+                <para PARENT="Autor"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="D G D G"/>
+                <para PARENT="Akordy"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="   D            G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Prohlížím starý fotky"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="     D          G           D    G D G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="lezu oknem maringotky sem a tam."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Plýtvám si čas smíchem"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="syta s prázdným břichem přepadám."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Nech si kecy plytký"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="já mám stokrát radši kytky barevný."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Trochu blázen, trochu bohém,"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="nesním o životě strohém, carevny."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Bridge:"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="          Emi              G"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="Možná, že víc šancí už nebude"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="         Emi              G A"/>
+                <para PARENT="Akordy"/>
+                <ITEXT CH="možná že zahrávám si s osudem."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="       D"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Tak mě líbej a hraj"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="       A                Emi"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="ať mám tváře pěkně červený,"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="  G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="a to už není zbytí."/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="   D"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="Já našla jsem ráj"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="A               Emi"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="přímo tady na zemi"/>
+                <para PARENT="Refrén"/>
+                <ITEXT CH="    G"/>
+                <para PARENT="Akordy refrénu"/>
+                <ITEXT CH="kde čtyři slunce svítí."/>
+                <para PARENT="Refrén"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Mám ráda malovaný stěny"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="a vlasy v barvě henny rozpuštěný."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Na podpatcích v rytmu polky"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="mám totiž od vesnický holky kořeny."/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Trhlá jako moje džíny"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="žádný straight a slim a skinny nedělím"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="I přes častý proměnlivo"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="beru všechno, co mi život nadělí."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Bridge"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CH="Ref 2x"/>
+                <para PARENT="Refrén"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="581.890393700787" YPOS="2708.18929133858" OwnPage="5" ItemID="252810880" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="B"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1177.16598425197" YPOS="2708.18929133858" OwnPage="6" ItemID="339940304" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="K"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="581.890393700787" YPOS="3590.07874015748" OwnPage="7" ItemID="421664384" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="K"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1177.16598425197" YPOS="3590.07874015748" OwnPage="8" ItemID="421678544" PTYPE="4" WIDTH="70.8661417322835" HEIGHT="70.8661417322835" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" copath="M0 0 L70.8661 0 L70.8661 70.8661 L0 70.8661 L0 0 Z" gXpos="1177.16598425197" gYpos="62.5209448818898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="B"/>
+                <trail PARENT="Nástroj"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
