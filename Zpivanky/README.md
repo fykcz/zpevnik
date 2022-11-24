@@ -1,4 +1,6 @@
 # Změny
+## 2022-11-24
+- Úprava zpěvníku 20221126-BetyGalerie, takhle už by to mohlo bejt.
 
 ## 2022-10-08
 - Přidány nové sklady:
