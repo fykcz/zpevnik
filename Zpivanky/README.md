@@ -1,4 +1,16 @@
 # Změny
+## 2023-03-24
+- Úpravy zpěvníku, spíše kosmetické, nějaké akordové úpravy. Změny ve skladbách:
+ - 19 - Růže z Texasu
+ - 20 - Sbohem lásko
+ - 24 - Jupí čerte
+ - 28 - Proměny
+ - 46 - Sedm dostavníků
+ - 58 - Už to nenapravím
+ - 67 - Nezacházej slunce
+ - 112 - Nehrálo se o ceny
+ - 122 - Anička Malinová
+
 ## 2022-11-24
 - Úprava zpěvníku 20221126-BetyGalerie, takhle už by to mohlo bejt.
 
