@@ -1,4 +1,19 @@
 # Změny
+## 2023-03-30
+- Úpravy opravy
+  - 8 - Kdyby tady byla
+  - 9 - Řekni, kde ty kytky jsou
+  - 15 - Bedna od whisky
+  - 16 - Hudsonský šífy
+  - 18 - Pole s bavlnou
+  - 20 - Sbohem lásko
+  - 26 - Mezi horami
+  - 29 - Sbohem galánečko
+  - 30 - Severní vítr
+  - 45 - Pojďme se napít
+  - 47 - Zelené pláně
+  - 77 - Píseň, co mě učil listopad
+
 ## 2023-03-24
 - Úpravy zpěvníku, spíše kosmetické, nějaké akordové úpravy. Změny ve skladbách:
  - 19 - Růže z Texasu
