@@ -1,4 +1,9 @@
 # Změny
+## 2024-05-13
+- Přidány skladby
+  - 127 - Svět iluzí
+  - 130 - God Was Never on Your Side
+
 ## 2023-03-30
 - Úpravy opravy
   - 8 - Kdyby tady byla
