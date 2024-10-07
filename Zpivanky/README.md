@@ -1,4 +1,7 @@
 # Změny
+## 2024-10-07
+- Přidána skladba
+  - 133 - Osm dvojek
 ## 2024-09-25
 - Přidána skladba
   - 132 - Loď do neznáma
@@ -8,7 +11,7 @@
   - 130 - God Was Never on Your Side
 
 ## 2023-03-30
-- Úpravy opravy
+- Úpravy, opravy
   - 8 - Kdyby tady byla
   - 9 - Řekni, kde ty kytky jsou
   - 15 - Bedna od whisky
