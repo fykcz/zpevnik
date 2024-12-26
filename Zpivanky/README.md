@@ -1,10 +1,17 @@
 # Změny
+## 2024-12-19
+- Přidána skladba
+  - 134 - Bujonet
+  - 135 - Časy zlý
+
 ## 2024-10-07
 - Přidána skladba
   - 133 - Osm dvojek
+
 ## 2024-09-25
 - Přidána skladba
   - 132 - Loď do neznáma
+
 ## 2024-05-13
 - Přidány skladby
   - 127 - Svět iluzí
@@ -24,7 +31,6 @@
   - 45 - Pojďme se napít
   - 47 - Zelené pláně
   - 77 - Píseň, co mě učil listopad
-
 ## 2023-03-24
 - Úpravy zpěvníku, spíše kosmetické, nějaké akordové úpravy. Změny ve skladbách:
  - 19 - Růže z Texasu
