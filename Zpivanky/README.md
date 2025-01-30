@@ -1,4 +1,10 @@
 # Změny
+## 2025-01-30
+- Přidány skladby
+  - 136 - Blowin In The Wind
+  - 137 - Nemůžu si pomoct
+  - 138 - Kdo vchází do tvých snů, má lásko
+
 ## 2024-12-19
 - Přidána skladba
   - 134 - Bujonet
