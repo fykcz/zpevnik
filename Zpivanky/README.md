@@ -1,4 +1,14 @@
 # Změny
+
+## 2025-02-27
+- Přidány skladby
+  - 142 - Já jsem Aleš
+
+## 2025-02-03
+- Přidány skladby
+  - 140 - Nebude to ľahké
+  - 141 - Po schodoch
+
 ## 2025-01-30
 - Přidány skladby
   - 136 - Blowin In The Wind
