@@ -1,5 +1,10 @@
 # Změny
 
+## 2025-03-12
+- Přidány skladby
+  - 143 - Sliby a lži
+  - 144 - Milionu hvězd se ptáš
+
 ## 2025-02-27
 - Přidány skladby
   - 142 - Já jsem Aleš
