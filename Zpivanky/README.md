@@ -1,5 +1,10 @@
 # Změny
 
+## 2025-04-08
+- Přidány skladby
+  - 146 - Duše do vesmíru
+  - 148 - Zakázané uvolnění
+
 ## 2025-04-05
 - Přidána skladba
   - 145 - Napořád
@@ -56,6 +61,7 @@
   - 45 - Pojďme se napít
   - 47 - Zelené pláně
   - 77 - Píseň, co mě učil listopad
+
 ## 2023-03-24
 - Úpravy zpěvníku, spíše kosmetické, nějaké akordové úpravy. Změny ve skladbách:
  - 19 - Růže z Texasu
