@@ -1,5 +1,9 @@
 # Změny
 
+## 2025-04-29
+- Přidána skladba
+  - 149 - Cizí pohled
+
 ## 2025-04-08
 - Přidány skladby
   - 146 - Duše do vesmíru
