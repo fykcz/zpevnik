@@ -1,5 +1,10 @@
 # Změny
 
+## 2025-05-05
+- Přidána skladba
+  - 150 - Večírek osamělých srdcí
+- Doplnění obrázků akordů
+
 ## 2025-04-29
 - Přidána skladba
   - 149 - Cizí pohled
