@@ -1,5 +1,11 @@
 # Změny
 
+## 2025-09-29
+- Přidány skladby
+  - 151 - Starý časy
+  - 152 - Bitva o Karlův most
+- Doplnění skriptu na generování TOC
+
 ## 2025-05-05
 - Přidána skladba
   - 150 - Večírek osamělých srdcí
