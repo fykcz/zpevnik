@@ -1,5 +1,18 @@
 # Změny
 
+## 2025-09-30
+- Přidány skladby
+  - 153 - Magdalénka
+  - 154 - Morituri te salutant
+  - 155 - Jarní kurýr
+  - 156 - Imaginární hospoda
+  - 158 - Zachraňte koně
+  - 159 - Vstávej, holka
+  - 160 - Červená řeka (Potulnej kovboj)
+  - 161 - Hluboká vráska (Naraž si bouřku)
+  - 162 - Karavana mraků
+  - 163 - Marsyas a Apollon
+
 ## 2025-09-29
 - Přidány skladby
   - 151 - Starý časy
