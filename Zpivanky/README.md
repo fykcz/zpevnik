@@ -1,5 +1,15 @@
 # Změny
 
+## 2026-01-03
+- Přidány skladby
+  - 166 - Psáno na březové kůře
+  - 167 - Ty jsi jako já
+
+## 2025-11-19
+- Přidány skladby
+  - 164 - Bosou nohou žárem
+  - 165 - Někdy si vzpomeň
+
 ## 2025-09-30
 - Přidány skladby
   - 153 - Magdalénka
