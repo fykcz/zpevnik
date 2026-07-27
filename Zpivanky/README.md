@@ -1,18 +1,31 @@
 # Změny
 
+## 2026-07-27
+- Přidány skladby
+  - 170 - Divokej horskej tymián
+  - 171 - Barevný šál
+  - 172 - Mám jizvu na rtu
+  - 174 - Konec nočních toulek ([#5](https://github.com/fykcz/zpevnik/issues/5))
+  - 175 - Tereza - Osamělý město ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 176 - Cesta ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 177 - Otázky ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 178 - Jdem zpátky do lesů ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 179 - Bačkora blues
+  - 180 - Tvůj první mejdan
+
 ## 2026-01-29
 - Přidána skladba
   - 168 - Pomeranč
 
 ## 2026-01-03
 - Přidány skladby
-  - 166 - Psáno na březové kůře
-  - 167 - Ty jsi jako já
+  - 166 - Psáno na březové kůře ([#7](https://github.com/fykcz/zpevnik/issues/7))
+  - 167 - Ty jsi jako já ([#6](https://github.com/fykcz/zpevnik/issues/6))
 
 ## 2025-11-19
 - Přidány skladby
-  - 164 - Bosou nohou žárem
-  - 165 - Někdy si vzpomeň
+  - 164 - Bosou nohou žárem ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 165 - Někdy si vzpomeň ([#3](https://github.com/fykcz/zpevnik/issues/3))
 
 ## 2025-09-30
 - Přidány skladby
@@ -25,12 +38,12 @@
   - 160 - Červená řeka (Potulnej kovboj)
   - 161 - Hluboká vráska (Naraž si bouřku)
   - 162 - Karavana mraků
-  - 163 - Marsyas a Apollon
+  - 163 - Marsyas a Apollon ([#2](https://github.com/fykcz/zpevnik/issues/2))
 
 ## 2025-09-29
 - Přidány skladby
-  - 151 - Starý časy
-  - 152 - Bitva o Karlův most
+  - 151 - Starý časy ([#2](https://github.com/fykcz/zpevnik/issues/2))
+  - 152 - Bitva o Karlův most ([#2](https://github.com/fykcz/zpevnik/issues/2))
 - Doplnění skriptu na generování TOC
 
 ## 2025-05-05
