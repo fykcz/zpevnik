@@ -1,5 +1,8 @@
 # Změny
 
+## 2026-07-28
+- Oprava skladby 177 Otázky
+
 ## 2026-07-27
 - Přidány skladby
   - 170 - Divokej horskej tymián
