@@ -1,5 +1,11 @@
 # Změny
 
+## 2026-08-04
+- Přidány skladby
+  - 181 - Přijela jsem v cadillacu ([#10](https://github.com/fykcz/zpevnik/issues/10))
+  - 182 - Ukolébavka Karel Kryl ([#11](https://github.com/fykcz/zpevnik/issues/11))
+  
+
 ## 2026-07-28
 - Oprava skladby 177 Otázky
 
@@ -9,12 +15,12 @@
   - 171 - Barevný šál
   - 172 - Mám jizvu na rtu
   - 174 - Konec nočních toulek ([#5](https://github.com/fykcz/zpevnik/issues/5))
-  - 175 - Tereza - Osamělý město ([#3](https://github.com/fykcz/zpevnik/issues/3))
-  - 176 - Cesta ([#3](https://github.com/fykcz/zpevnik/issues/3))
-  - 177 - Otázky ([#3](https://github.com/fykcz/zpevnik/issues/3))
-  - 178 - Jdem zpátky do lesů ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 175 - Tereza - Osamělý město ([#9](https://github.com/fykcz/zpevnik/issues/9))
+  - 176 - Cesta ([#9](https://github.com/fykcz/zpevnik/issues/9))
+  - 177 - Otázky ([#9](https://github.com/fykcz/zpevnik/issues/9))
+  - 178 - Jdem zpátky do lesů ([#9](https://github.com/fykcz/zpevnik/issues/9))
   - 179 - Bačkora blues
-  - 180 - Tvůj první mejdan
+  - 180 - Tvůj první mejdan ([#8](https://github.com/fykcz/zpevnik/issues/8))
 
 ## 2026-01-29
 - Přidána skladba
@@ -27,8 +33,8 @@
 
 ## 2025-11-19
 - Přidány skladby
-  - 164 - Bosou nohou žárem ([#3](https://github.com/fykcz/zpevnik/issues/3))
-  - 165 - Někdy si vzpomeň ([#3](https://github.com/fykcz/zpevnik/issues/3))
+  - 164 - Bosou nohou žárem ([#9](https://github.com/fykcz/zpevnik/issues/9))
+  - 165 - Někdy si vzpomeň ([#9](https://github.com/fykcz/zpevnik/issues/9))
 
 ## 2025-09-30
 - Přidány skladby
