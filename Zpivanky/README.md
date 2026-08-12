@@ -1,10 +1,15 @@
 # Změny
 
+## 2026-08-12
+- Oprava skladby
+    - 73 Husličky ([#12](https://github.com/fykcz/zpevnik/issues/12))
+    - 108 Love Is ... ([#12](https://github.com/fykcz/zpevnik/issues/12))
+    - 154 Moritury ([#14](https://github.com/fykcz/zpevnik/issues/14))
+
 ## 2026-08-04
 - Přidány skladby
   - 181 - Přijela jsem v cadillacu ([#10](https://github.com/fykcz/zpevnik/issues/10))
   - 182 - Ukolébavka Karel Kryl ([#11](https://github.com/fykcz/zpevnik/issues/11))
-  
 
 ## 2026-07-28
 - Oprava skladby 177 Otázky
