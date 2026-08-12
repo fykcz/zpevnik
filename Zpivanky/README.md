@@ -1,6 +1,21 @@
 # Změny
 
 ## 2026-08-12
+- Přidána skladba
+    - 183 - Večírek za koncem ([#13](https://github.com/fykcz/zpevnik/issues/13))
+
+## 2026-08-12
+- Oprava obrázků akordů a unifikace zobrazení ve zpěvníku (via. [Chordpic](https://chordpic.com))
+    - Starting fret: 1
+    - Number of frets: 5
+    - Number of strings: 6
+    - Height: 24
+    - Finger size: 15
+    - Finger font size: 16
+    - Title font size: 18
+    - Stroke width: 11
+    - Show fret markers: checked
+    - Background color: white
 - Oprava skladby
     - 73 Husličky ([#12](https://github.com/fykcz/zpevnik/issues/12))
     - 108 Love Is ... ([#12](https://github.com/fykcz/zpevnik/issues/12))
